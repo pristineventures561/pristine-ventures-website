@@ -1,2 +1,2 @@
-# pristine-ventures-website
- Official website for Pristine Ventures
+#PristinVentures
+ Official Pristine Ventures
