@@ -1,3 +1,2 @@
-#Pristine-Ventures
-Pristine-Ventures Official 
+Pristine-Ventures
 
